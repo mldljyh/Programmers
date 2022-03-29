@@ -1,4 +1,4 @@
--- Programmers SQL Problem 1
+-- Programmers SQL SELECT Problem 1
 -- https://programmers.co.kr/learn/courses/30/lessons/59034
 SELECT *
 FROM ANIMAL_INS
