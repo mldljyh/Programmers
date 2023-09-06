@@ -1,3 +1,6 @@
+'''
+개인적으로 어려웠던 문제 어떻게 비교할지에 대한 고민을 오래했던 거 같다
+'''
 import math
 def solution(numbers):
     answer = ''
